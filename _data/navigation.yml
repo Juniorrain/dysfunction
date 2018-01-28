@@ -1,3 +1,4 @@
 main:
-  -title: "Links"
-   url: /links/
+  - title: "Links"
+    url: /links/
+
