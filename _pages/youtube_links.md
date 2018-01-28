@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /youtube-link/
+permalink: /links/
 title: Links
 author_profile: true
 
