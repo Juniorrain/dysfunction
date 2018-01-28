@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /youtube-link/
-title: Youtube Videos I Somethimes Watch
+title: Links
 author_profile: true
 
 ---
