@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /links/
-title: Clink It
+title: Click It
 author_profile: true
 ---
 
