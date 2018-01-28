@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /
+author_profile: true
+
 ---
 
 __Stuff That I Think is Interesting__
