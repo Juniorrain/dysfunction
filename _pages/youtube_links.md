@@ -1,9 +1,9 @@
 ---
 layout: single
 permalink: /links/
-title: Links
+title: Clink It
 author_profile: true
 ---
 
-# Get Spooked
+
 
