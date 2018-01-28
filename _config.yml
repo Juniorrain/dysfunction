@@ -1,3 +1,10 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Welcome to My Dysfuntional Website
 include: ["_pages"]
+
+
+author:
+  name: "Junior"
+  avatar: "https://i.pinimg.com/736x/e9/c8/fb/e9c8fbd5c3df3dd0d76a96697c364fb7--unicorn-club-moustache.jpg"
+  bio: "Being Normal is too Boring"
+  
